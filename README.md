@@ -1,4 +1,4 @@
-# Housing-prices-using-ML
+# Housing-prices perdiction-using-ML
 HOUSING PRICES PREDICTION USING MACHINE LEARNING
 Developed a Housing Market Dashboard and interactive website to monitor and analyze housing price trends across Chennai.
 
